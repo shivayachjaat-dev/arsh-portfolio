@@ -19,8 +19,8 @@ export const profile: Profile = {
   linkedinUrl: "https://www.linkedin.com/in/arsh-shivayach-7576ba198",
   github: "arshshivayach",
   githubUrl: "https://github.com/arshshivayach",
-  photo: "/profile.jpg",
-  resume: "/Arsh_Shivayach_Resume.pdf",
+  photo: "/arsh-portfolio/profile.jpg",
+  resume: "/arsh-portfolio/Arsh_Shivayach_Resume.pdf",
   experienceYears: "6+",
 };
 

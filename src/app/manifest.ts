@@ -14,7 +14,7 @@ export default function manifest(): MetadataRoute.Manifest {
     theme_color: "#8b5cf6",
     icons: [
       {
-        src: "/profile.jpg",
+        src: "/arsh-portfolio/profile.jpg",
         sizes: "any",
         type: "image/jpeg",
       },
