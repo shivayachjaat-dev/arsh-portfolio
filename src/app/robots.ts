@@ -1,5 +1,7 @@
 import type { MetadataRoute } from "next";
 
+export const dynamic = "force-static";
+
 export default function robots(): MetadataRoute.Robots {
   return {
     rules: {
@@ -7,6 +9,6 @@ export default function robots(): MetadataRoute.Robots {
       allow: "/",
       disallow: ["/api/"],
     },
-    sitemap: "https://arshshivayach.com/sitemap.xml",
+    sitemap: "https://shivayachjaat-dev.github.io/arsh-portfolio/sitemap.xml",
   };
 }

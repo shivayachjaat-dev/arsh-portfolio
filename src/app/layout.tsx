@@ -15,7 +15,7 @@ const jetbrainsMono = JetBrains_Mono({
   display: "swap",
 });
 
-const siteUrl = "https://arshshivayach.com";
+const siteUrl = "https://shivayachjaat-dev.github.io/arsh-portfolio";
 
 export const metadata: Metadata = {
   metadataBase: new URL(siteUrl),
