@@ -20,7 +20,7 @@ export const profile: Profile = {
   github: "arshshivayach",
   githubUrl: "https://github.com/arshshivayach",
   photo: "/arsh-portfolio/profile.jpg",
-  resume: "/arsh-portfolio/Arsh_Shivayach_Resume.pdf",
+  resume: "/arsh-portfolio/Arsh-Shivayach-Resume.pdf",
   experienceYears: "6+",
 };
 
